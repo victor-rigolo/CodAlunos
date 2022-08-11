@@ -1,0 +1,41 @@
+D:\Lucas\Área de Trabalho\BioAlunos v0.1\WindowsFormsApplication3\bin\Debug\CodAlunos.exe
+D:\Lucas\Área de Trabalho\BioAlunos v0.1\WindowsFormsApplication3\bin\Debug\CodAlunos.pdb
+D:\Lucas\Área de Trabalho\BioAlunos v0.1\WindowsFormsApplication3\obj\x86\Debug\CodAlunos v0.1.csprojResolveAssemblyReference.cache
+D:\Lucas\Área de Trabalho\BioAlunos v0.1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+D:\Lucas\Área de Trabalho\BioAlunos v0.1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+D:\Lucas\Área de Trabalho\BioAlunos v0.1\WindowsFormsApplication3\obj\x86\Debug\CodAlunos.Properties.Resources.resources
+D:\Lucas\Área de Trabalho\BioAlunos v0.1\WindowsFormsApplication3\obj\x86\Debug\CodAlunos v0.1.csproj.GenerateResource.Cache
+D:\Lucas\Área de Trabalho\BioAlunos v0.1\WindowsFormsApplication3\obj\x86\Debug\CodAlunos.exe
+D:\Lucas\Área de Trabalho\BioAlunos v0.1\WindowsFormsApplication3\obj\x86\Debug\CodAlunos.pdb
+D:\Lucas\Área de Trabalho\BioAlunos v0.1\CodAlunos\obj\x86\Debug\CodAlunos.exe
+D:\Lucas\Área de Trabalho\BioAlunos v0.1\CodAlunos\obj\x86\Debug\CodAlunos.pdb
+D:\Lucas\Área de Trabalho\CodAlunos v0.1\CodAlunos\obj\x86\Debug\CodAlunos.exe
+D:\Lucas\Área de Trabalho\CodAlunos v0.1\CodAlunos\obj\x86\Debug\CodAlunos.pdb
+D:\Lucas\Área de Trabalho\CodAlunos v0.1\CodAlunos\bin\Debug\CodAlunos.exe
+D:\Lucas\Área de Trabalho\CodAlunos v0.1\CodAlunos\bin\Debug\CodAlunos.pdb
+D:\Lucas\Área de Trabalho\CodAlunos v0.1\CodAlunos\obj\x86\Debug\CodAlunos v0.1.csprojResolveAssemblyReference.cache
+D:\Lucas\Área de Trabalho\CodAlunos v0.1\CodAlunos\obj\x86\Debug\CodAlunos.Entrada.resources
+D:\Lucas\Área de Trabalho\CodAlunos v0.1\CodAlunos\obj\x86\Debug\CodAlunos.Properties.Resources.resources
+D:\Lucas\Área de Trabalho\CodAlunos v0.1\CodAlunos\obj\x86\Debug\CodAlunos.TelaInicial.resources
+D:\Lucas\Área de Trabalho\CodAlunos v0.1\CodAlunos\obj\x86\Debug\CodAlunos v0.1.csproj.GenerateResource.Cache
+D:\Lucas\Área de Trabalho\CodAlunos v0.1\CodAlunos\obj\x86\Debug\CodAlunos.Cadastro.resources
+D:\Lucas\Área de Trabalho\CodAlunos v0.1 - Copia\CodAlunos\obj\x86\Debug\CodAlunos.exe
+D:\Lucas\Área de Trabalho\CodAlunos v0.1 - Copia\CodAlunos\obj\x86\Debug\CodAlunos.pdb
+D:\Lucas\Área de Trabalho\CodAlunos v0.1 - Copia\CodAlunos\bin\Debug\CodAlunos.exe
+D:\Lucas\Área de Trabalho\CodAlunos v0.1 - Copia\CodAlunos\bin\Debug\CodAlunos.pdb
+D:\Lucas\Área de Trabalho\CodAlunos v0.1 - Copia\CodAlunos\obj\x86\Debug\CodAlunos v0.1.csprojResolveAssemblyReference.cache
+D:\Lucas\Área de Trabalho\CodAlunos v0.1 - Copia\CodAlunos\obj\x86\Debug\CodAlunos.entrada.resources
+D:\Lucas\Área de Trabalho\CodAlunos v0.1 - Copia\CodAlunos\obj\x86\Debug\CodAlunos.cadastro.resources
+D:\Lucas\Área de Trabalho\CodAlunos v0.1 - Copia\CodAlunos\obj\x86\Debug\CodAlunos.Properties.Resources.resources
+D:\Lucas\Área de Trabalho\CodAlunos v0.1 - Copia\CodAlunos\obj\x86\Debug\CodAlunos.telainicial.resources
+D:\Lucas\Área de Trabalho\CodAlunos v0.1 - Copia\CodAlunos\obj\x86\Debug\CodAlunos v0.1.csproj.GenerateResource.Cache
+D:\Lucas\Área de Trabalho\CodAlunos v0.2\CodAlunos\obj\x86\Debug\CodAlunos.exe
+D:\Lucas\Área de Trabalho\CodAlunos v0.2\CodAlunos\obj\x86\Debug\CodAlunos.pdb
+D:\Lucas\Área de Trabalho\CodAlunos v0.2\CodAlunos\bin\Debug\CodAlunos.exe
+D:\Lucas\Área de Trabalho\CodAlunos v0.2\CodAlunos\bin\Debug\CodAlunos.pdb
+D:\Lucas\Área de Trabalho\CodAlunos v0.2\CodAlunos\obj\x86\Debug\CodAlunos v0.1.csprojResolveAssemblyReference.cache
+D:\Lucas\Área de Trabalho\CodAlunos v0.2\CodAlunos\obj\x86\Debug\CodAlunos.entrada.resources
+D:\Lucas\Área de Trabalho\CodAlunos v0.2\CodAlunos\obj\x86\Debug\CodAlunos.cadastro.resources
+D:\Lucas\Área de Trabalho\CodAlunos v0.2\CodAlunos\obj\x86\Debug\CodAlunos.Properties.Resources.resources
+D:\Lucas\Área de Trabalho\CodAlunos v0.2\CodAlunos\obj\x86\Debug\CodAlunos.telainicial.resources
+D:\Lucas\Área de Trabalho\CodAlunos v0.2\CodAlunos\obj\x86\Debug\CodAlunos v0.1.csproj.GenerateResource.Cache

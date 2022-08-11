@@ -1,0 +1,18 @@
+D:\Lucas\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+D:\Lucas\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\BioAlunos v0.1.csproj.GenerateResource.Cache
+D:\Lucas\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+D:\Lucas\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+D:\Lucas\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+D:\Lucas\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+D:\Lucas\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+d:\lucas\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\BioAlunos v0.1.csprojResolveAssemblyReference.cache
+d:\lucas\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+D:\Lucas\Área de Trabalho\BioAlunos v0.1\WindowsFormsApplication3\bin\Debug\BioAlunos.exe
+D:\Lucas\Área de Trabalho\BioAlunos v0.1\WindowsFormsApplication3\bin\Debug\BioAlunos.pdb
+D:\Lucas\Área de Trabalho\BioAlunos v0.1\WindowsFormsApplication3\obj\x86\Debug\BioAlunos v0.1.csprojResolveAssemblyReference.cache
+D:\Lucas\Área de Trabalho\BioAlunos v0.1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+D:\Lucas\Área de Trabalho\BioAlunos v0.1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+D:\Lucas\Área de Trabalho\BioAlunos v0.1\WindowsFormsApplication3\obj\x86\Debug\BioAlunos.Properties.Resources.resources
+D:\Lucas\Área de Trabalho\BioAlunos v0.1\WindowsFormsApplication3\obj\x86\Debug\BioAlunos v0.1.csproj.GenerateResource.Cache
+D:\Lucas\Área de Trabalho\BioAlunos v0.1\WindowsFormsApplication3\obj\x86\Debug\BioAlunos.exe
+D:\Lucas\Área de Trabalho\BioAlunos v0.1\WindowsFormsApplication3\obj\x86\Debug\BioAlunos.pdb

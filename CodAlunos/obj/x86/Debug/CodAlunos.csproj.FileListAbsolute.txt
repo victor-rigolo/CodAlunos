@@ -1,0 +1,25 @@
+D:\Lucas\Área de Trabalho\CodAlunos v0.2\CodAlunos\bin\Debug\CodAlunos.exe
+D:\Lucas\Área de Trabalho\CodAlunos v0.2\CodAlunos\bin\Debug\CodAlunos.pdb
+D:\Lucas\Área de Trabalho\CodAlunos v0.2\CodAlunos\obj\x86\Debug\CodAlunos.csprojResolveAssemblyReference.cache
+D:\Lucas\Área de Trabalho\CodAlunos v0.2\CodAlunos\obj\x86\Debug\CodAlunos.entrada.resources
+D:\Lucas\Área de Trabalho\CodAlunos v0.2\CodAlunos\obj\x86\Debug\CodAlunos.cadastro.resources
+D:\Lucas\Área de Trabalho\CodAlunos v0.2\CodAlunos\obj\x86\Debug\CodAlunos.Properties.Resources.resources
+D:\Lucas\Área de Trabalho\CodAlunos v0.2\CodAlunos\obj\x86\Debug\CodAlunos.telainicial.resources
+D:\Lucas\Área de Trabalho\CodAlunos v0.2\CodAlunos\obj\x86\Debug\CodAlunos.csproj.GenerateResource.Cache
+D:\Lucas\Área de Trabalho\CodAlunos v0.2\CodAlunos\obj\x86\Debug\CodAlunos.exe
+D:\Lucas\Área de Trabalho\CodAlunos v0.2\CodAlunos\obj\x86\Debug\CodAlunos.pdb
+C:\CodAlunos v0.2\CodAlunos\obj\x86\Debug\CodAlunos.exe
+C:\CodAlunos v0.2\CodAlunos\obj\x86\Debug\CodAlunos.pdb
+C:\CodAlunos\CodAlunos\obj\x86\Debug\CodAlunos.exe
+C:\CodAlunos\CodAlunos\obj\x86\Debug\CodAlunos.pdb
+C:\CodAlunos\CodAlunos\obj\x86\Debug\CodAlunos.csprojResolveAssemblyReference.cache
+C:\CodAlunos\CodAlunos\obj\x86\Debug\CodAlunos.entrada.resources
+C:\CodAlunos\CodAlunos\obj\x86\Debug\CodAlunos.cadastro.resources
+C:\CodAlunos\CodAlunos\obj\x86\Debug\CodAlunos.Properties.Resources.resources
+C:\CodAlunos\CodAlunos\obj\x86\Debug\CodAlunos.telainicial.resources
+C:\CodAlunos\CodAlunos\obj\x86\Debug\CodAlunos.csproj.GenerateResource.Cache
+C:\CodAlunos\CodAlunos\bin\Debug\CodAlunos.exe
+C:\CodAlunos\CodAlunos\bin\Debug\CodAlunos.pdb
+C:\CodAlunos\CodAlunos\obj\x86\Debug\CodAlunos.alterar.resources
+C:\CodAlunos\CodAlunos\obj\x86\Debug\CodAlunos.export.resources
+C:\CodAlunos\CodAlunos\obj\x86\Debug\CodAlunos.anular.resources
